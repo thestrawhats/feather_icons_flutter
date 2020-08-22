@@ -35,40 +35,40 @@
   "archive": {
     "unicode": "e90b"
   },
-  "arrow-down": {
+  "arrow-down-circle": {
     "unicode": "e90c"
   },
-  "arrow-down-circle": {
+  "arrow-down-left": {
     "unicode": "e90d"
   },
-  "arrow-down-left": {
+  "arrow-down-right": {
     "unicode": "e90e"
   },
-  "arrow-down-right": {
+  "arrow-down": {
     "unicode": "e90f"
   },
-  "arrow-left": {
+  "arrow-left-circle": {
     "unicode": "e910"
   },
-  "arrow-left-circle": {
+  "arrow-left": {
     "unicode": "e911"
   },
-  "arrow-right": {
+  "arrow-right-circle": {
     "unicode": "e912"
   },
-  "arrow-right-circle": {
+  "arrow-right": {
     "unicode": "e913"
   },
-  "arrow-up": {
+  "arrow-up-circle": {
     "unicode": "e914"
   },
-  "arrow-up-circle": {
+  "arrow-up-left": {
     "unicode": "e915"
   },
-  "arrow-up-left": {
+  "arrow-up-right": {
     "unicode": "e916"
   },
-  "arrow-up-right": {
+  "arrow-up": {
     "unicode": "e917"
   },
   "at-sign": {
@@ -77,22 +77,22 @@
   "award": {
     "unicode": "e919"
   },
-  "bar-chart": {
+  "bar-chart-2": {
     "unicode": "e91a"
   },
-  "bar-chart-2": {
+  "bar-chart": {
     "unicode": "e91b"
   },
-  "battery": {
+  "battery-charging": {
     "unicode": "e91c"
   },
-  "battery-charging": {
+  "battery": {
     "unicode": "e91d"
   },
-  "bell": {
+  "bell-off": {
     "unicode": "e91e"
   },
-  "bell-off": {
+  "bell": {
     "unicode": "e91f"
   },
   "bluetooth": {
@@ -101,10 +101,10 @@
   "bold": {
     "unicode": "e921"
   },
-  "book": {
+  "book-open": {
     "unicode": "e922"
   },
-  "book-open": {
+  "book": {
     "unicode": "e923"
   },
   "bookmark": {
@@ -119,22 +119,22 @@
   "calendar": {
     "unicode": "e927"
   },
-  "camera": {
+  "camera-off": {
     "unicode": "e928"
   },
-  "camera-off": {
+  "camera": {
     "unicode": "e929"
   },
   "cast": {
     "unicode": "e92a"
   },
-  "check": {
+  "check-circle": {
     "unicode": "e92b"
   },
-  "check-circle": {
+  "check-square": {
     "unicode": "e92c"
   },
-  "check-square": {
+  "check": {
     "unicode": "e92d"
   },
   "chevron-down": {
@@ -173,22 +173,22 @@
   "clock": {
     "unicode": "e939"
   },
-  "cloud": {
+  "cloud-drizzle": {
     "unicode": "e93a"
   },
-  "cloud-drizzle": {
+  "cloud-lightning": {
     "unicode": "e93b"
   },
-  "cloud-lightning": {
+  "cloud-off": {
     "unicode": "e93c"
   },
-  "cloud-off": {
+  "cloud-rain": {
     "unicode": "e93d"
   },
-  "cloud-rain": {
+  "cloud-snow": {
     "unicode": "e93e"
   },
-  "cloud-snow": {
+  "cloud": {
     "unicode": "e93f"
   },
   "code": {
@@ -197,604 +197,664 @@
   "codepen": {
     "unicode": "e941"
   },
-  "command": {
+  "codesandbox": {
     "unicode": "e942"
   },
-  "compass": {
+  "coffee": {
     "unicode": "e943"
   },
-  "copy": {
+  "columns": {
     "unicode": "e944"
   },
-  "corner-down-left": {
+  "command": {
     "unicode": "e945"
   },
-  "corner-down-right": {
+  "compass": {
     "unicode": "e946"
   },
-  "corner-left-down": {
+  "copy": {
     "unicode": "e947"
   },
-  "corner-left-up": {
+  "corner-down-left": {
     "unicode": "e948"
   },
-  "corner-right-down": {
+  "corner-down-right": {
     "unicode": "e949"
   },
-  "corner-right-up": {
+  "corner-left-down": {
     "unicode": "e94a"
   },
-  "corner-up-left": {
+  "corner-left-up": {
     "unicode": "e94b"
   },
-  "corner-up-right": {
+  "corner-right-down": {
     "unicode": "e94c"
   },
-  "cpu": {
+  "corner-right-up": {
     "unicode": "e94d"
   },
-  "credit-card": {
+  "corner-up-left": {
     "unicode": "e94e"
   },
-  "crop": {
+  "corner-up-right": {
     "unicode": "e94f"
   },
-  "crosshair": {
+  "cpu": {
     "unicode": "e950"
   },
-  "database": {
+  "credit-card": {
     "unicode": "e951"
   },
-  "delete": {
+  "crop": {
     "unicode": "e952"
   },
-  "disc": {
+  "crosshair": {
     "unicode": "e953"
   },
-  "dollar-sign": {
+  "database": {
     "unicode": "e954"
   },
-  "download": {
+  "delete": {
     "unicode": "e955"
   },
-  "download-cloud": {
+  "disc": {
     "unicode": "e956"
   },
-  "droplet": {
+  "divide-circle": {
     "unicode": "e957"
   },
-  "edit": {
+  "divide-square": {
     "unicode": "e958"
   },
-  "edit-2": {
+  "divide": {
     "unicode": "e959"
   },
-  "edit-3": {
+  "dollar-sign": {
     "unicode": "e95a"
   },
-  "external-link": {
+  "download-cloud": {
     "unicode": "e95b"
   },
-  "eye": {
+  "download": {
     "unicode": "e95c"
   },
-  "eye-off": {
+  "dribbble": {
     "unicode": "e95d"
   },
-  "facebook": {
+  "droplet": {
     "unicode": "e95e"
   },
-  "fast-forward": {
+  "edit-2": {
     "unicode": "e95f"
   },
-  "feather": {
+  "edit-3": {
     "unicode": "e960"
   },
-  "file": {
+  "edit": {
     "unicode": "e961"
   },
-  "file-minus": {
+  "external-link": {
     "unicode": "e962"
   },
-  "file-plus": {
+  "eye-off": {
     "unicode": "e963"
   },
-  "file-text": {
+  "eye": {
     "unicode": "e964"
   },
-  "film": {
+  "facebook": {
     "unicode": "e965"
   },
-  "filter": {
+  "fast-forward": {
     "unicode": "e966"
   },
-  "flag": {
+  "feather": {
     "unicode": "e967"
   },
-  "folder": {
+  "figma": {
     "unicode": "e968"
   },
-  "folder-minus": {
+  "file-minus": {
     "unicode": "e969"
   },
-  "folder-plus": {
+  "file-plus": {
     "unicode": "e96a"
   },
-  "gift": {
+  "file-text": {
     "unicode": "e96b"
   },
-  "git-branch": {
+  "file": {
     "unicode": "e96c"
   },
-  "git-commit": {
+  "film": {
     "unicode": "e96d"
   },
-  "git-merge": {
+  "filter": {
     "unicode": "e96e"
   },
-  "git-pull-request": {
+  "flag": {
     "unicode": "e96f"
   },
-  "github": {
+  "folder-minus": {
     "unicode": "e970"
   },
-  "gitlab": {
+  "folder-plus": {
     "unicode": "e971"
   },
-  "globe": {
+  "folder": {
     "unicode": "e972"
   },
-  "grid": {
+  "framer": {
     "unicode": "e973"
   },
-  "hard-drive": {
+  "frown": {
     "unicode": "e974"
   },
-  "hash": {
+  "gift": {
     "unicode": "e975"
   },
-  "headphones": {
+  "git-branch": {
     "unicode": "e976"
   },
-  "heart": {
+  "git-commit": {
     "unicode": "e977"
   },
-  "help-circle": {
+  "git-merge": {
     "unicode": "e978"
   },
-  "home": {
+  "git-pull-request": {
     "unicode": "e979"
   },
-  "image": {
+  "github": {
     "unicode": "e97a"
   },
-  "inbox": {
+  "gitlab": {
     "unicode": "e97b"
   },
-  "info": {
+  "globe": {
     "unicode": "e97c"
   },
-  "instagram": {
+  "grid": {
     "unicode": "e97d"
   },
-  "italic": {
+  "hard-drive": {
     "unicode": "e97e"
   },
-  "layers": {
+  "hash": {
     "unicode": "e97f"
   },
-  "layout": {
+  "headphones": {
     "unicode": "e980"
   },
-  "life-buoy": {
+  "heart": {
     "unicode": "e981"
   },
-  "link": {
+  "help-circle": {
     "unicode": "e982"
   },
-  "link-2": {
+  "hexagon": {
     "unicode": "e983"
   },
-  "linkedin": {
+  "home": {
     "unicode": "e984"
   },
-  "list": {
+  "image": {
     "unicode": "e985"
   },
-  "loader": {
+  "inbox": {
     "unicode": "e986"
   },
-  "lock": {
+  "info": {
     "unicode": "e987"
   },
-  "log-in": {
+  "instagram": {
     "unicode": "e988"
   },
-  "log-out": {
+  "italic": {
     "unicode": "e989"
   },
-  "mail": {
+  "key": {
     "unicode": "e98a"
   },
-  "map": {
+  "layers": {
     "unicode": "e98b"
   },
-  "map-pin": {
+  "layout": {
     "unicode": "e98c"
   },
-  "maximize": {
+  "life-buoy": {
     "unicode": "e98d"
   },
-  "maximize-2": {
+  "link-2": {
     "unicode": "e98e"
   },
-  "menu": {
+  "link": {
     "unicode": "e98f"
   },
-  "message-circle": {
+  "linkedin": {
     "unicode": "e990"
   },
-  "message-square": {
+  "list": {
     "unicode": "e991"
   },
-  "mic": {
+  "loader": {
     "unicode": "e992"
   },
-  "mic-off": {
+  "lock": {
     "unicode": "e993"
   },
-  "minimize": {
+  "log-in": {
     "unicode": "e994"
   },
-  "minimize-2": {
+  "log-out": {
     "unicode": "e995"
   },
-  "minus": {
+  "mail": {
     "unicode": "e996"
   },
-  "minus-circle": {
+  "map-pin": {
     "unicode": "e997"
   },
-  "minus-square": {
+  "map": {
     "unicode": "e998"
   },
-  "monitor": {
+  "maximize-2": {
     "unicode": "e999"
   },
-  "moon": {
+  "maximize": {
     "unicode": "e99a"
   },
-  "more-horizontal": {
+  "meh": {
     "unicode": "e99b"
   },
-  "more-vertical": {
+  "menu": {
     "unicode": "e99c"
   },
-  "move": {
+  "message-circle": {
     "unicode": "e99d"
   },
-  "music": {
+  "message-square": {
     "unicode": "e99e"
   },
-  "navigation": {
+  "mic-off": {
     "unicode": "e99f"
   },
-  "navigation-2": {
+  "mic": {
     "unicode": "e9a0"
   },
-  "octagon": {
+  "minimize-2": {
     "unicode": "e9a1"
   },
-  "package": {
+  "minimize": {
     "unicode": "e9a2"
   },
-  "paperclip": {
+  "minus-circle": {
     "unicode": "e9a3"
   },
-  "pause": {
+  "minus-square": {
     "unicode": "e9a4"
   },
-  "pause-circle": {
+  "minus": {
     "unicode": "e9a5"
   },
-  "percent": {
+  "monitor": {
     "unicode": "e9a6"
   },
-  "phone": {
+  "moon": {
     "unicode": "e9a7"
   },
-  "phone-call": {
+  "more-horizontal": {
     "unicode": "e9a8"
   },
-  "phone-forwarded": {
+  "more-vertical": {
     "unicode": "e9a9"
   },
-  "phone-incoming": {
+  "mouse-pointer": {
     "unicode": "e9aa"
   },
-  "phone-missed": {
+  "move": {
     "unicode": "e9ab"
   },
-  "phone-off": {
+  "music": {
     "unicode": "e9ac"
   },
-  "phone-outgoing": {
+  "navigation-2": {
     "unicode": "e9ad"
   },
-  "pie-chart": {
+  "navigation": {
     "unicode": "e9ae"
   },
-  "play": {
+  "octagon": {
     "unicode": "e9af"
   },
-  "play-circle": {
+  "package": {
     "unicode": "e9b0"
   },
-  "plus": {
+  "paperclip": {
     "unicode": "e9b1"
   },
-  "plus-circle": {
+  "pause-circle": {
     "unicode": "e9b2"
   },
-  "plus-square": {
+  "pause": {
     "unicode": "e9b3"
   },
-  "pocket": {
+  "pen-tool": {
     "unicode": "e9b4"
   },
-  "power": {
+  "percent": {
     "unicode": "e9b5"
   },
-  "printer": {
+  "phone-call": {
     "unicode": "e9b6"
   },
-  "radio": {
+  "phone-forwarded": {
     "unicode": "e9b7"
   },
-  "refresh-ccw": {
+  "phone-incoming": {
     "unicode": "e9b8"
   },
-  "refresh-cw": {
+  "phone-missed": {
     "unicode": "e9b9"
   },
-  "repeat": {
+  "phone-off": {
     "unicode": "e9ba"
   },
-  "rewind": {
+  "phone-outgoing": {
     "unicode": "e9bb"
   },
-  "rotate-ccw": {
+  "phone": {
     "unicode": "e9bc"
   },
-  "rotate-cw": {
+  "pie-chart": {
     "unicode": "e9bd"
   },
-  "rss": {
+  "play-circle": {
     "unicode": "e9be"
   },
-  "save": {
+  "play": {
     "unicode": "e9bf"
   },
-  "scissors": {
+  "plus-circle": {
     "unicode": "e9c0"
   },
-  "search": {
+  "plus-square": {
     "unicode": "e9c1"
   },
-  "send": {
+  "plus": {
     "unicode": "e9c2"
   },
-  "server": {
+  "pocket": {
     "unicode": "e9c3"
   },
-  "settings": {
+  "power": {
     "unicode": "e9c4"
   },
-  "share": {
+  "printer": {
     "unicode": "e9c5"
   },
-  "share-2": {
+  "radio": {
     "unicode": "e9c6"
   },
-  "shield": {
+  "refresh-ccw": {
     "unicode": "e9c7"
   },
-  "shield-off": {
+  "refresh-cw": {
     "unicode": "e9c8"
   },
-  "shopping-bag": {
+  "repeat": {
     "unicode": "e9c9"
   },
-  "shopping-cart": {
+  "rewind": {
     "unicode": "e9ca"
   },
-  "shuffle": {
+  "rotate-ccw": {
     "unicode": "e9cb"
   },
-  "sidebar": {
+  "rotate-cw": {
     "unicode": "e9cc"
   },
-  "skip-back": {
+  "rss": {
     "unicode": "e9cd"
   },
-  "skip-forward": {
+  "save": {
     "unicode": "e9ce"
   },
-  "slack": {
+  "scissors": {
     "unicode": "e9cf"
   },
-  "slash": {
+  "search": {
     "unicode": "e9d0"
   },
-  "sliders": {
+  "send": {
     "unicode": "e9d1"
   },
-  "smartphone": {
+  "server": {
     "unicode": "e9d2"
   },
-  "speaker": {
+  "settings": {
     "unicode": "e9d3"
   },
-  "square": {
+  "share-2": {
     "unicode": "e9d4"
   },
-  "star": {
+  "share": {
     "unicode": "e9d5"
   },
-  "stop-circle": {
+  "shield-off": {
     "unicode": "e9d6"
   },
-  "sun": {
+  "shield": {
     "unicode": "e9d7"
   },
-  "sunrise": {
+  "shopping-bag": {
     "unicode": "e9d8"
   },
-  "sunset": {
+  "shopping-cart": {
     "unicode": "e9d9"
   },
-  "tablet": {
+  "shuffle": {
     "unicode": "e9da"
   },
-  "tag": {
+  "sidebar": {
     "unicode": "e9db"
   },
-  "target": {
+  "skip-back": {
     "unicode": "e9dc"
   },
-  "terminal": {
+  "skip-forward": {
     "unicode": "e9dd"
   },
-  "thermometer": {
+  "slack": {
     "unicode": "e9de"
   },
-  "thumbs-down": {
+  "slash": {
     "unicode": "e9df"
   },
-  "thumbs-up": {
+  "sliders": {
     "unicode": "e9e0"
   },
-  "toggle-left": {
+  "smartphone": {
     "unicode": "e9e1"
   },
-  "toggle-right": {
+  "smile": {
     "unicode": "e9e2"
   },
-  "trash": {
+  "speaker": {
     "unicode": "e9e3"
   },
-  "trash-2": {
+  "square": {
     "unicode": "e9e4"
   },
-  "trending-down": {
+  "star": {
     "unicode": "e9e5"
   },
-  "trending-up": {
+  "stop-circle": {
     "unicode": "e9e6"
   },
-  "triangle": {
+  "sun": {
     "unicode": "e9e7"
   },
-  "truck": {
+  "sunrise": {
     "unicode": "e9e8"
   },
-  "tv": {
+  "sunset": {
     "unicode": "e9e9"
   },
-  "twitter": {
+  "tablet": {
     "unicode": "e9ea"
   },
-  "type": {
+  "tag": {
     "unicode": "e9eb"
   },
-  "umbrella": {
+  "target": {
     "unicode": "e9ec"
   },
-  "underline": {
+  "terminal": {
     "unicode": "e9ed"
   },
-  "unlock": {
+  "thermometer": {
     "unicode": "e9ee"
   },
-  "upload": {
+  "thumbs-down": {
     "unicode": "e9ef"
   },
-  "upload-cloud": {
+  "thumbs-up": {
     "unicode": "e9f0"
   },
-  "user": {
+  "toggle-left": {
     "unicode": "e9f1"
   },
-  "user-check": {
+  "toggle-right": {
     "unicode": "e9f2"
   },
-  "user-minus": {
+  "tool": {
     "unicode": "e9f3"
   },
-  "user-plus": {
+  "trash-2": {
     "unicode": "e9f4"
   },
-  "user-x": {
+  "trash": {
     "unicode": "e9f5"
   },
-  "users": {
+  "trello": {
     "unicode": "e9f6"
   },
-  "video": {
+  "trending-down": {
     "unicode": "e9f7"
   },
-  "video-off": {
+  "trending-up": {
     "unicode": "e9f8"
   },
-  "voicemail": {
+  "triangle": {
     "unicode": "e9f9"
   },
-  "volume": {
+  "truck": {
     "unicode": "e9fa"
   },
-  "volume-1": {
+  "tv": {
     "unicode": "e9fb"
   },
-  "volume-2": {
+  "twitch": {
     "unicode": "e9fc"
   },
-  "volume-x": {
+  "twitter": {
     "unicode": "e9fd"
   },
-  "watch": {
+  "type": {
     "unicode": "e9fe"
   },
-  "wifi": {
+  "umbrella": {
     "unicode": "e9ff"
   },
-  "wifi-off": {
+  "underline": {
     "unicode": "ea00"
   },
-  "wind": {
+  "unlock": {
     "unicode": "ea01"
   },
-  "x": {
+  "upload-cloud": {
     "unicode": "ea02"
   },
-  "x-circle": {
+  "upload": {
     "unicode": "ea03"
   },
-  "x-square": {
+  "user-check": {
     "unicode": "ea04"
   },
-  "youtube": {
+  "user-minus": {
     "unicode": "ea05"
   },
-  "zap": {
+  "user-plus": {
     "unicode": "ea06"
   },
-  "zap-off": {
+  "user-x": {
     "unicode": "ea07"
   },
-  "zoom-in": {
+  "user": {
     "unicode": "ea08"
   },
-  "zoom-out": {
+  "users": {
     "unicode": "ea09"
+  },
+  "video-off": {
+    "unicode": "ea0a"
+  },
+  "video": {
+    "unicode": "ea0b"
+  },
+  "voicemail": {
+    "unicode": "ea0c"
+  },
+  "volume-1": {
+    "unicode": "ea0d"
+  },
+  "volume-2": {
+    "unicode": "ea0e"
+  },
+  "volume-x": {
+    "unicode": "ea0f"
+  },
+  "volume": {
+    "unicode": "ea10"
+  },
+  "watch": {
+    "unicode": "ea11"
+  },
+  "wifi-off": {
+    "unicode": "ea12"
+  },
+  "wifi": {
+    "unicode": "ea13"
+  },
+  "wind": {
+    "unicode": "ea14"
+  },
+  "x-circle": {
+    "unicode": "ea15"
+  },
+  "x-octagon": {
+    "unicode": "ea16"
+  },
+  "x-square": {
+    "unicode": "ea17"
+  },
+  "x": {
+    "unicode": "ea18"
+  },
+  "youtube": {
+    "unicode": "ea19"
+  },
+  "zap-off": {
+    "unicode": "ea1a"
+  },
+  "zap": {
+    "unicode": "ea1b"
+  },
+  "zoom-in": {
+    "unicode": "ea1c"
+  },
+  "zoom-out": {
+    "unicode": "ea1d"
   }
 }
